@@ -1,9 +1,9 @@
 ---
 ---
 
-# FrenchFroonz's Website
+# Imagine BioCore's test Website
 
-An engaging 1-3 sentence description of your lab.
+This website is a test for the Imagine Institute's Bioinformatics core. The structure is quite simple and it seems all is left to do is to fill these fields with the relevant information and links. 
 
 {% include section.html %}
 
