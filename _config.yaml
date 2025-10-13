@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Imagine Institut 
 subtitle: Bioinformatics Core Website
-description: Why is the description not updating? Here is a first exemple of what the github website is going to look like. We can add it to the imagine domain if the provider is willing.
+description: This description does not update?
 header: images/Imagine_banner.png
 footer: images/background.jpg
 proofer: false
