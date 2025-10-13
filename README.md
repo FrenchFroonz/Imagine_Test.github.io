@@ -5,6 +5,6 @@
 
   # FrenchFroonz's Website
 
-  Visit **[frenchfroonz.github.io/Template_Test_Imagine](https://frenchfroonz.github.io/Template_Test_Imagine)** 🚀
+  Visit **[frenchfroonz.github.io/Imagine_Test.github.io](https://frenchfroonz.github.io/Imagine_Test.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
