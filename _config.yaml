@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@testimginetest.com
-  orcid: 0000-0001-8713-9213
+#  email: contact@testimginetest.com
+#  orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: ImagineBioCore
-  twitter: FrenchFroonz
-  youtube: FrenchFroonz
+#  twitter: FrenchFroonz
+#  youtube: FrenchFroonz
 
 ### jekyll settings
 
