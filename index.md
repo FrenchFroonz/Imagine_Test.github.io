@@ -1,9 +1,9 @@
 ---
 ---
 
-# Imagine BioCore's test Website
+# Research and Diagnosis for Rare Genetic Diseases
 
-This website is a test for the Imagine Institute's Bioinformatics core. The structure is quite simple and it seems all is left to do is to fill these fields with the relevant information and links. 
+Sequencing Data Management & Multi-Omics Analysis 
 
 {% include section.html %}
 
