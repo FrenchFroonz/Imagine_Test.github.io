@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Imagine Institut 
-subtitle: Bioinformatics Core Website
-description: Dscri[tion that will show up under search engine results. Can be overriden on specific pages.
+title: Imagine Institute Bioinformatics Hub
+subtitle: Sequencing Data Management & Integrative Multi-Omics Analysis
+description: BioInformatics Hub of the Imagine Institute
 header: images/Imagine_banner.png
 footer: images/background.jpg
 proofer: false
